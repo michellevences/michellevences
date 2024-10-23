@@ -1,4 +1,4 @@
-<img align="middle" src="banner.png" height="500">
+<img align="middle" src="banner.png" width ="1000" height="500">
 
 
 🔭 I’m currently working on Course Catalog for CS majors @ UIC  
