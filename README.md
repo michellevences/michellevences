@@ -1,4 +1,5 @@
-## Welcome to My GitHub Profile! 👩‍💻👻  
+<img align="middle" src="banner.png" height="500">
+
 
 🔭 I’m currently working on Course Catalog for CS majors @ UIC  
 🌱 I’m currently learning more about data science & React.  
